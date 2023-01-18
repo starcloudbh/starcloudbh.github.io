@@ -1,0 +1,6 @@
+[book]
+authors = ["cute"]
+language = "en"
+multilingual = false
+src = "src"
+title = "my-book"
